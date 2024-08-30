@@ -1,3 +1,6 @@
+This fork was created to add chunked decoding capability for real time decoding of audio streams.  At this point the original repo owner has folded this work into the original repo.
+
+
 libflac.js
 ==========
 
